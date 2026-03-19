@@ -4,7 +4,7 @@ class Program
 {
 static void Main()
 {
-Console.WriteLine("—— Number Checker ——");
+Console.WriteLine("—— Number Analyzer ——");
 Console.WriteLine("----------------------");
 Console.WriteLine();
 
