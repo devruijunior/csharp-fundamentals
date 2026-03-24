@@ -42,7 +42,7 @@ class Program
                 Console.WriteLine("Invalid option");
             }
 
-            Console.WriteLine();
+            Console.WriteLine(); 
         }
     }
 }
